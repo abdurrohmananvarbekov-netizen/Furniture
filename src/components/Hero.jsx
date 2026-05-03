@@ -26,7 +26,7 @@ const Hero = () => {
                         Ut elit tellus, luctus nec ullamcorper mattis.
                     </p>
 
-                    <button className="bg-[#05445E] text-white px-10 py-4 font-bold rounded-md
+                    <button className="bg-[#05445E] text-white px-10 py-4 font-bold rounded-[50px]
             hover:bg-opacity-90 transition-all uppercase text-sm cursor-pointer">
                         Buy Now
                     </button>

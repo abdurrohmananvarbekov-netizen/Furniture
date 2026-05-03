@@ -1,8 +1,8 @@
-const Steps = () => {
+const Works = () => {
   const steps = [
-    { n: "1.", title: "Purchase Securely", img: "/step1.jpg" },
-    { n: "2.", title: "Ships From Warehouse", img: "/step2.jpg" },
-    { n: "3.", title: "Style Your Room", img: "/step3.jpg" },
+    { n: "1", title: "Purchase Securely", img: "/step1.png" },
+    { n: "2", title: "Ships From Warehouse", img: "/step2.png" },
+    { n: "3", title: "Style Your Room", img: "/step3.png" },
   ];
 
   return (
